@@ -1,3 +1,8 @@
-# anan
-aasdfghjklşi
-q2w567890qetyuıoğaw<ertyuık
+# literate-system
+
+
+Welcome To The Literate-System.
+
+Developed by 3mirhan currently
+
+.
